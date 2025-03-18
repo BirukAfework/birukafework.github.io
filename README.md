@@ -1,5 +1,4 @@
-# birukafework.github.io
-# Biruk Afework - Programmer & Ethical Hacker
+
 
 Welcome to my GitHub profile! I am a passionate programmer and ethical hacker with expertise in cybersecurity, software development, and innovative problem-solving. I thrive on building secure, efficient, and impactful solutions.
 
