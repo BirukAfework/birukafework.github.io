@@ -9,7 +9,8 @@ Welcome to my GitHub profile! I am a passionate programmer and ethical hacker wi
 - **Profession**: Programmer | Ethical Hacker | Cybersecurity Enthusiast  
 - **Location**: Dilla Ethiopia  
 - **Email**: birukafeworkmengesha@gmail.com  
-- **LinkedIn**: birukafework   
+- **LinkedIn**: birukafework
+- **Status**: Open to Work and Internships  
 
 ---
 
