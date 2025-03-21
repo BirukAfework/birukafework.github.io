@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am a passionate programmer and ethical hacker wi
 
 ## About Me
 - **Name**: Biruk Afework  
-- **Profession**: Programmer | Ethical Hacker | Cybersecurity Enthusiast  
+- **Profession**: Programmer | Ethical Hacker | Cybersecurity Enthusiast  | Flutter Developer  
 - **Location**: Dilla Ethiopia  
 - **Email**: birukafeworkmengesha@gmail.com  
 - **LinkedIn**: birukafework
