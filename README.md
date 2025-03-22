@@ -46,10 +46,6 @@ Welcome to my GitHub profile! I am a passionate programmer and ethical hacker wi
 - **Temari Elearning Platform**  
   An e-learning solution designed to empower students with accessible education resources.  
  
-
-- **More Projects**  
-  Additional works in progress—stay tuned for updates!  
-
 ---
 
 ## Work History
