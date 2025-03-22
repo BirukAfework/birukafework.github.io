@@ -35,13 +35,8 @@ Welcome to my GitHub profile! I am a passionate programmer and ethical hacker wi
   - [GitHub Repo Link - Add if available]  
 
 - **[Unspecified Project 1]**  
-  [Brief description or placeholder - e.g., "A security tool for network analysis."]  
 
 - **[Unspecified Project 2]**  
-  [Brief description or placeholder - e.g., "Vulnerability scanner prototype."]  
-
-- **[Unspecified Project 3]**  
-  [Brief description or placeholder - e.g., "Exploit mitigation research."]  
 
 ### Web Projects
 - **Visit Gede'o - Tourism Site**  
