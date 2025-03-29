@@ -7,23 +7,23 @@ Welcome to my GitHub profile! I am a passionate programmer and ethical hacker wi
 ## About Me
 - **Name**: Biruk Afework  
 - **Profession**: Programmer | Ethical Hacker | Cybersecurity Enthusiast
- <div id="badges">
+
+- **Email**: birukafeworkmengesha@gmail.com  
+- **Github Website**: birukafework.github.io  
+- **LinkedIn**: birukafework
+- **Status**: Open to Work and Internships  
+<div id="badges">
   <a href="https://et.linkedin.com/in/birukafework">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/biruk_buraa">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-<!--   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> -->
+  <a href="https://birukafework.github.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+</a>
 </div>
-- **Email**: birukafeworkmengesha@gmail.com  
-- **Github Website**: birukafework.github.io  
-- **LinkedIn**: birukafework
-- **Status**: Open to Work and Internships  
 
----
 
 ## Certifications
 - **INSA 2015 Graduate - Cybersecurity**  
