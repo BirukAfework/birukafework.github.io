@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I am a passionate programmer and ethical hacker wi
 ## About Me
 - **Name**: Biruk Afework  
 - **Profession**: Programmer | Ethical Hacker | Cybersecurity Enthusiast
-- <div id="badges">
+ <div id="badges">
   <a href="https://et.linkedin.com/in/birukafework">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
